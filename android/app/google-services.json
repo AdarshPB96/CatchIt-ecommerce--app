@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "37624275185",
+    "project_id": "catch-it-fbf07",
+    "storage_bucket": "catch-it-fbf07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37624275185:android:66f69229e0b03955304950",
+        "android_client_info": {
+          "package_name": "com.example.catch_it_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37624275185-rkijrr7glukqcnktui1o6kfgr1d0fm7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.catch_it_project",
+            "certificate_hash": "c0d0acbc358da9c3691ff26ca40ac3d52a2cfeb3"
+          }
+        },
+        {
+          "client_id": "37624275185-2303r291sdgn55hkk9f2dcb5mnbdgfmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMLJoxfJdu1foOV3pxftGTE2okeGmhj00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37624275185-2303r291sdgn55hkk9f2dcb5mnbdgfmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
